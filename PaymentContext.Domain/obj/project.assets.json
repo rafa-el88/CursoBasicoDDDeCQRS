@@ -201,11 +201,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
+      "projectUniqueName": "C:\\Projetos\\CursoBasicoDDDeCQRS\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
       "projectName": "PaymentContext.Domain",
-      "projectPath": "C:\\Projetos\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
+      "projectPath": "C:\\Projetos\\CursoBasicoDDDeCQRS\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
       "packagesPath": "C:\\Users\\06606053927\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\PaymentContext\\PaymentContext.Domain\\obj\\",
+      "outputPath": "C:\\Projetos\\CursoBasicoDDDeCQRS\\PaymentContext.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\06606053927\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -221,8 +221,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Projetos\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
-              "projectPath": "C:\\Projetos\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj"
+            "C:\\Projetos\\CursoBasicoDDDeCQRS\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
+              "projectPath": "C:\\Projetos\\CursoBasicoDDDeCQRS\\PaymentContext.Shared\\PaymentContext.Shared.csproj"
             }
           }
         }

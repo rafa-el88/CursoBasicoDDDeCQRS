@@ -6,3 +6,11 @@ C:\Projetos\PaymentContext\PaymentContext.Shared\obj\Debug\netstandard2.0\Paymen
 C:\Projetos\PaymentContext\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.AssemblyInfo.cs
 C:\Projetos\PaymentContext\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.dll
 C:\Projetos\PaymentContext\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.pdb
+C:\Projetos\CursoBasicoDDDeCQRS\PaymentContext.Shared\bin\Debug\netstandard2.0\PaymentContext.Shared.deps.json
+C:\Projetos\CursoBasicoDDDeCQRS\PaymentContext.Shared\bin\Debug\netstandard2.0\PaymentContext.Shared.dll
+C:\Projetos\CursoBasicoDDDeCQRS\PaymentContext.Shared\bin\Debug\netstandard2.0\PaymentContext.Shared.pdb
+C:\Projetos\CursoBasicoDDDeCQRS\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.csprojAssemblyReference.cache
+C:\Projetos\CursoBasicoDDDeCQRS\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.AssemblyInfoInputs.cache
+C:\Projetos\CursoBasicoDDDeCQRS\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.AssemblyInfo.cs
+C:\Projetos\CursoBasicoDDDeCQRS\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.dll
+C:\Projetos\CursoBasicoDDDeCQRS\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.pdb

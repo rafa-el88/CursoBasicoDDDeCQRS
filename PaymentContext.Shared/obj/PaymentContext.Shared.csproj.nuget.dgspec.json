@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {}
+    "C:\\Projetos\\CursoBasicoDDDeCQRS\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
+    "C:\\Projetos\\CursoBasicoDDDeCQRS\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
+        "projectUniqueName": "C:\\Projetos\\CursoBasicoDDDeCQRS\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
         "projectName": "PaymentContext.Shared",
-        "projectPath": "C:\\Projetos\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
+        "projectPath": "C:\\Projetos\\CursoBasicoDDDeCQRS\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
         "packagesPath": "C:\\Users\\06606053927\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\PaymentContext\\PaymentContext.Shared\\obj\\",
+        "outputPath": "C:\\Projetos\\CursoBasicoDDDeCQRS\\PaymentContext.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\06606053927\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -9,3 +9,14 @@ C:\Projetos\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\Paymen
 C:\Projetos\PaymentContext\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Shared.dll
 C:\Projetos\PaymentContext\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Shared.pdb
 C:\Projetos\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.csproj.CopyComplete
+C:\Projetos\CursoBasicoDDDeCQRS\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Domain.deps.json
+C:\Projetos\CursoBasicoDDDeCQRS\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Domain.dll
+C:\Projetos\CursoBasicoDDDeCQRS\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Domain.pdb
+C:\Projetos\CursoBasicoDDDeCQRS\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Shared.dll
+C:\Projetos\CursoBasicoDDDeCQRS\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Shared.pdb
+C:\Projetos\CursoBasicoDDDeCQRS\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.csprojAssemblyReference.cache
+C:\Projetos\CursoBasicoDDDeCQRS\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.AssemblyInfoInputs.cache
+C:\Projetos\CursoBasicoDDDeCQRS\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.AssemblyInfo.cs
+C:\Projetos\CursoBasicoDDDeCQRS\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.csproj.CopyComplete
+C:\Projetos\CursoBasicoDDDeCQRS\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.dll
+C:\Projetos\CursoBasicoDDDeCQRS\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.pdb
