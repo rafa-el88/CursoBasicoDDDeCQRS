@@ -25,12 +25,14 @@ namespace PaymentContext.Domain.Entities
         public Address Address { get; private set; }
         public IReadOnlyCollection<Subscription> Subscriptions { get { return _subscriptions.ToArray(); } }
 
-        public void AddSubscription(Subscription subscription){
+        public void AddSubscription(Subscription subscription)
+        {
+            // if(subscription.Payments.Count == 0)
             var hasSubscriptionActive = false;
 
             foreach (var sub in _subscriptions)
             {
-                if(sub.Active)
+                if (sub.Active)
                     hasSubscriptionActive = true;
             }
 
@@ -39,6 +41,7 @@ namespace PaymentContext.Domain.Entities
             AddNotifications(new Contract()
                 .Requires()
                 .IsFalse(hasSubscriptionActive, "Student.Subscriptions", "Você já tem uma assinatura ativa.")
+                .AreEquals(0, subscription.Payments.Count, "Student.Subscription,Payments", "Esta assinatura não possui pagamentos.")
             );
 
             //if(hasSubscriptionActive)
@@ -46,5 +49,5 @@ namespace PaymentContext.Domain.Entities
             #endregion
         }
     }
-    
+
 }
