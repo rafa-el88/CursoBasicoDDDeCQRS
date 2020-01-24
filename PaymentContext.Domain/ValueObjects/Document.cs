@@ -1,4 +1,5 @@
 using System;
+using Flunt.Validations;
 using PaymentContext.Domain.Enums;
 using ValueObjects;
 
@@ -10,14 +11,24 @@ namespace PaymentContext.Domain.ValueObjects
         {
             Number = number;
             Type = type;
+
+            AddNotifications(new Contract()
+            .Requires()
+            .IsTrue(Validate(), "Document.Number", "Documento inválido."));
         }
 
         public string Number { get; private set; }
         public EDocumentType Type { get; private set; }
 
-        public static implicit operator Document(string v)
+        private bool Validate()
         {
-            throw new NotImplementedException();
+            if (Type == EDocumentType.CNPJ && Number.Length == 14)
+                return true; // implementar validação CNPJ
+
+            if (Type == EDocumentType.CPF && Number.Length == 11)
+                return true; // implementar validação CPF
+
+            return false;
         }
     }
 }
